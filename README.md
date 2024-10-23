@@ -28,7 +28,7 @@ No need for gulp, npm, or anything else to make LittleLink work—it uses the ba
 
 [![Deploy to Vercel](https://cdn.cottle.cloud/littlelink/button-deploy-vercel.svg)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fsethcottle%2Flittlelink&project-name=littlelink&repository-name=littlelink)
 
-[![Deploy to Netlify](https://cdn.cottle.cloud/littlelink/button-deploy-netlify.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/sethcottle/littlelink)
+[![Deploy to Netlify](https://cdn.cottle.cloud/littlelink/button-deploy-netlify.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/BeaconV/ll)
 
 [![Deploy to Amplify](https://cdn.cottle.cloud/littlelink/button-deploy-amplify.svg)](https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/sethcottle/littlelink)
 
